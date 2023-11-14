@@ -1,0 +1,109 @@
+Ce este VerificareTVA.ro?
+VerificareTVA.ro este platforma online de validare a persoanelor juridice, in scop de TVA. Se pot obtine informatii fiscale despre companii privind aplicarea de TVA, TVA la incasare , istoric plata defalcata a TVA, daca au cod tva Inactiv si daca sunt in registrul E-factura. Serviciul este util pentru intocmirea facturilor sau declaratiei lunare / trimestriale D394 si ofera informatii la zi sau la un moment din trecut (contine un istoric al informatiilor).\n
+
+Pentru mai multe intrebari frecvente, puteti accesa pagina https://www.verificaretva.ro/#intrebari-frecvente
+
+Ce informatii fiscale se pot obtine?\n
+Verificare TVA returneaza urmatoarele informatii fiscale despre
+companii:
+• Cui-ul firmei\n
+• Numele firmei\n
+• Numarul de inmatriculare\n
+• Adresa postala partiala\n
+• Data actualizarii informatiilor\n
+• Status Platitor/Neplatitor TVA\n
+• Data Platitor/Neplatitor TVA\n
+• Status TVA la incasare\n
+• Data TVA la incasare\n
+• Istoric plata defalcata a TVA\n
+• Data plata defalcata a TVA\n
+• Status e_factura\n
+• Status Inactiv Anaf\n
+• Data inactivare/reactivare\n
+• Data prelucrare informatii\n
+• Status RO e-factura\n
+Informatiile legate de TVA sunt furnizate conform Anaf.\n
+
+Cum functioneaza VerificareTVA.ro?
+In momentul in care un utilizator verifica un cod fiscal, VerificareTVA.ro afiseaza informatiile fiscale din sursele oficiale: date facturare, platitor/neplatitor TVA, daca aplica TVA la incasare/facturare , istoric plata defalcata a TVA
+si cod TVA Inactiv.\n
+Verificarea punctuala se realizeaza prin introducerea codului fiscal in casuta de cautare, informatiile fiscale fiind afisate direct pe site.\n
+Pentru verificarea unei liste de coduri fiscale este necesar sa importati pe site lista in format .TXT. Dupa verificarea automata a codurilor fiscale, lista verificata va putea fi exportata in format .CSV sau .TXT.\n
+La verificarea codurilor fiscale prin API se adauga un cod in aplicatiile proprii, astfel incat sa se afiseze informatiile fiscale de care aveti nevoie. Cu ajutorul API Verificare TVA se pot integra informatiile fiscale direct intr-un program de contabilitate sau intr-un CRM.\n
+
+VerificareTVA.ro poate fi utilizat gratuit?\n
+Da. Ca utilizator neautentificat (fara cont) poti interoga gratuit 5 coduri fiscale pe zi / IP.\n
+Dupa autentificarea in contul de utilizator, VerificareTVA.ro poate fi testat gratuit, timp de 14 zile, in limita a 250 de coduri fiscale.\n
+
+
+Cat de actualizate sunt informatiile fiscale?\n
+Informatiile fiscale legate de TVA sunt actualizate la zi, conform ANAF.RO.\n
+Informatiile legate de bilant sunt actualizate saptamanal, conform LISTAFIRME.RO.\n
+
+Cum ajuta VerificareTVA.ro cand sursele oficiale nu sunt functionale?\n
+Platforma VerificareTVA.ro ofera acces permanent la istoricul informatiilor fiscale. Asadar, se pot obtine ultimele date disponibile, chiar daca sursele oficiale nu functioneaza.\n
+
+Cate coduri fiscale pot fi interogate?\n
+Ca utilizator neautentificat (fara cont) poti interoga gratuit 5 coduri fiscale pe zi / IP. Dupa autentificarea in contul de utilizator, VerificareTVA.ro poate fi testat gratuit, timp de 14 zile, in limita a 250 de coduri fiscale. Pentru un numar mai mare de interogari va recomandam abonamentele VerificareTVA.ro.\n
+Pentru mai multe intrebari frecvente, puteti accesa pagina https://www.verificaretva.ro/#intrebari-frecvente
+Care este timpul de verificare a unui cod fiscal?\n
+Timpul estimativ de verificare a unui cod fiscal este cuprins intre 0.1 secunde si 2 secunde. Acesta depinde de conexiunea utilizatorului la Internet sau de timpul de raspuns al surselor oficiale.\n
+
+Optiunea “Cautare in timp real”\n
+Va permite sa verificati in timp real starea de TVA a persoanelor juridice. Informatiile sunt actualizate in timp real si sunt afisate odata ce acestea apar in sursa oficiala.\n
+Caracteristicile acestei optiuni sunt valabile pentru toate cele 3 tipuri de verificari: punctuala, liste de CUI-uri si TVA API. In cazul verificarii listelor de CUI-uri pot exista neconcordante(informatii lipsa sau timp indelungat de verificare) atunci cand sursa oficiala devine indisponibila in timpul procesului de validare.\n
+NU sunt oferite informatii legate de istoric TVA, TVA la incasare, Split TVA sau Inactiv Anaf.\n
+
+Ce este plata recurenta?
+Plata recurenta cu cardul este considerata a fi cel mai convenabil si mai sigur mod de plata.\n
+Activand plata recurenta, poti fi sigur ca toate facturile tale vor fi achitate intotdeauna la timp.\n
+In cazul platilor recurente, VerificareTVA.ro, va utiliza token-ul cat plata recurenta ramane activa.\n
+Momentul facturarii va coincide cu expirarea termenului de valabilitate a abonamentului, atata timp cat plata recurenta nu este dezactivata.\n\n
+
+Cum se activeaza plata recurenta?\n
+Accepta plata recurenta cu card prin PayU in momentul plasari comenzi pe site. Aceasta este metoda de plata implicita si permite reinnoirea abonamentului activ din contul tau. Prin bifarea optiunii plata recurenta, clientul confirma ca a fost anterior informat si a acceptat termenii si conditiile de utilizare a platii recurente.\n
+
+Cum se dezactiveaza plata recurenta?\n
+Dezactivarea se face din contul de client al VerificareTVA.ro, debifand campul activare/dezactivare plata recurenta. Astfel plata recurenta se va fi opri si tokenul va fi sters.\n
+
+Ce este o interogare?
+O interogare reprezinta un cod fiscal pentru care sunt solicitate informatii fiscale\n
+In momentul in care se realizeaza cautarea se scade numarul de interogari egal cu numarul codurilor fiscale verificate.\n
+
+Se consuma interogari daca nu sunt furnizate informatii fiscale despre un CUI cautat?\n
+Daca pentru un cod fiscal nu se returneaza informatii fiscale din diferite motive (cod fiscal invalid, sursele oficiale de date nu sunt disponibile, erori interne), nu se consuma interogari.\n
+
+Se consuma interogari daca este cautat acelasi cod fiscal?\n
+Da. Fiecare cod fiscal cautat se considera o interogare - toate datele fiscale sunt obtinute conform surselor oficiale pentru ca situatia TVA se poate schimba in orice moment.\n
+
+Cum poate fi verificat numarul de interogari disponibile?\n
+Numarul de interogari disponibile poate fi vizualizat imediat dupa autentificarea in meniul “Contul meu” sau meniul “Istoric verificari”. In meniul “Istoric verificari” pot fi vizualizate: limita maxima de interogari aferenta abonamentului achizitionat, istoricul interogarilor utilizate lunar si numarul interogarilor disponibile in momentul verificarii.\n
+Pentru mai multe intrebari frecvente, puteti accesa pagina https://www.verificaretva.ro/#intrebari-frecvente
+Care este minimul de interogari lunare disponibile intr-un abonament?\n
+Numarul minim de interogari care poate fi achizitionat este de 3000 / luna, insa cel mai utilizat abonament este cel cu 5000 interogari / luna.\n
+
+Ce valabilitate au abonamentele si interogarile?
+Abonamentele VerificareTVA.ro pot fi achizitionate pe o perioada de la 3 la 12 luni. La plata unui abonament pentru o perioada de 12 luni, beneficiati de o luna bonus.
+Fiecare abonament include un numar de interogari valabile o luna. Numarul de interogari aferente unui abonament achizitionat se reseteaza in fiecare luna, la data la care contul a fost alimentat.\n
+
+Interogarile neutilizate se reporteaza?
+Interogarile neutilizate in decursul unei luni nu se reporteaza.\n
+
+Contul VerificareTVA.ro poate fi utilizat de mai multe persoane?\n
+Contul de utilizator poate fi folosit simultan de mai multe persoane in limita interogarilor abonamentului.\n
+Pentru mai multe intrebari frecvente, puteti accesa pagina https://www.verificaretva.ro/#intrebari-frecvente
+La ce ajuta reinnoirea automata a abonamentului?\n
+Reinnoirea automata a abonamentelor iti ofera siguranta ca toate serviciile tale au continuitate fara a fi nevoie sa tii minte datele de expirare a abonamentelor.\n
+Optiunea de reinnoire automata poate fi activata sau dezactivata din contul de client de pe VerificareTVA.ro.\n
+
+Ce este un token ?\n
+In momentul activarii serviciului de plata recurenta, datele cardului de plata utilizat de catre client nu sunt memorate ci li se vor atribui un Token\n
+care poate fi utilizat ulterior pentru efectuarea tranzactiilor online doar pentru comenzile clientului catre acelasi furnizor, daca are plata recurenta activata.\n
+Clientul poate dezactiva in orice moment plata recurenta astfel si tokenul va fi anulat.\n
+Pentru mai multe intrebari frecvente, puteti accesa pagina https://www.verificaretva.ro/#intrebari-frecvente
+Cand expira cardul ce se intampla ?\n
+Se va trimite o notificare prin email catre client, iar plata recurenta se va opri. Totodata se va opri si prelungirea automata a abonamentului.\n
+
+Care sunt datele de contact?\n
+Telefon fix : +4-021-310.67.91/92/93\n
+Adresa de email: info@verificaretva.ro\n

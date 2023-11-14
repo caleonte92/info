@@ -1,0 +1,131 @@
+1. Cum functioneaza?\n
+API Verificare TVA furnizeaza din sursele oficiale informatii despre firmele din Romania care aplica TVA, \n
+TVA la incasare, istoric Split TVA (plata defalcata TVA) si care au sau au avut status de inactiv Anaf.\n
+Acesta face interogari punctuale la sursele de informatii oficiale sau de pe serverele VerificareTVA.ro\n
+ atunci cand sursele oficiale sunt indisponibile si returneaza informatii intr-o forma standardizata.\n
+Accesul la API se face pe baza de abonament.
+Sunt necesare un nume de utilizator si o parola pentru initierea unei interogari.\n
+API-ul poate fi integrat si accesat in aplicatii proprii prin adaugarea unui cod in interiorul codului sursa.\n
+Pentru mai multe informatii sau nelamuriri, accesati pagina https://www.verificaretva.ro/documentatie-api.aspx
+2.Fluxul de date
+Initial se face o interogare de tip HTTPS GET sau POST la serverul VerificareTVA.ro impreuna cu \n
+key-ul asociat abonamentului, CUI-ul firmei si data tranzactiei (a facturii) pana la care se \n
+doresc a fi actualizate datele (aceasta data specifica practic cat de noi sa fie informatiile \n
+din adresa si data la care se vor afla informatiile legate de TVA).\n
+Daca serverul VerificareTVA.ro detine informatii mai noi decat data specificata in interogarea \n
+initiala, atunci informatiile sunt livrate din Cache-ul VerificareTVA.ro.\n
+Daca informatiile din Cache-ul VerificareTVA.ro sunt mai vechi decat data specificata sau sunt\n
+ indisponibile, atunci se vor livra informatii direct de la ANAF.\n
+API-ul livreaza informatiile in format JSON.\n
+
+3. Metoda de acces
+Se transmite o interogare de tip HTTPS GET sau POST la adresa web:\n
+
+https://www.verificaretva.ro/api/apiv6.aspx\n
+Parametrii pentru acces:
+
+Parametru	Tip de data	Observatii	Descriere\n
+key	String [max 255 caractere]	Optional	Key-ul asociat contului de acces la \n
+API Verificare TVA(vezi interfata online)
+cui	String [max 10 caractere]	Obligatoriu	Codul fiscal al firmei la care se \n
+solicita informatiile
+data	Data [AAAA-LLZZ]	Obligatoriu	Se specifica data facturii pentru care se doresc \n
+informatiile despre starea platitorului de TVA.
+bilant	String [max 1 caracter] – 0/1	Optional	Se specifica daca se doresc a fi incluse\n
+ in raspuns si date din bilant (1 da, 0 nu)
+realTime	String [max 1 caracter] – 0/1	Optional	Se specifica daca se doreste\n
+ interogarea datelor in timp real direct din sursa oficiala (1 da, 0 nu).
+Atentie pot aparea neconcordante (lipsa informatii, durata indelungata verificare) deoarece\n
+ sursa poate fi indisponibila.NU se poate verifca istoricul TVA.
+lang	String [max 2 caracter] – ro/en	Optional	Se specifica daca se doreste afisarea \n
+informatiilor in limba engleza (fara parametru, default este limba romana).\n
+4. Abonamentul de acces
+API-ul poate fi accesat cu un cont de utilizator caruia ii poate fi asociat un abonament platit\n
+ sau gratuit (pana la 250 interogari / 14 zile / cont). in functie de abonamentul ales, \n
+API-ul poate fi accesat pana la o limita maxima de interogari pe luna. Crearea unui cont de \n
+utilizator se poate face din pagina:
+Pentru mai multe informatii sau nelamuriri, accesati pagina https://www.verificaretva.ro/documentatie-api.aspx
+https://www.verificaretva.ro/inregistrare
+5. Interpretarea raspunsului
+Daca toti parametrii sunt corecti si nu a intervenit nicio eroare in timpul requestului,\n
+ API-ul ar trebui sa returneze un raspuns similar cu:
+
+Ex. APIv5
+{"Raspuns":"VALID","Nume":"BORG DESIGN SRL","Cui":"14837428","NrInmatr":"J40/8118/2002","Judet":"BUCURESTI",\n
+"Localitate":"SECTORUL 5","Tip":"STR. ","Adresa":" ING. STEFAN HEPITES","Nr":"16A","Actualizat":"2022-09-13",\n
+"TVA":"True","TVA_data":"2002-08-26","TVAIncasare":"False","TVAIncasare_data":"-","TVASplit":"False",\n
+"TVASplit_data":"-","StatusRO_e_Factura":"False","StatusInactivi":"False","StatusInactivi_data":"-",\n
+"StareInregistrare":"-","sdenumire_Strada":"Str. Ing. Ştefan Hepiteş","snumar_Strada":"16A",\n
+"sdenumire_Localitate":"Sector 5 Mun. Bucureşti","scod_Localitate":"5","sdenumire_Judet":"MUNICIPIUL BUCUREŞTI",\n
+"scod_Judet":"40","stara":"-","sdetalii_Adresa":"PARTER","scod_Postal":"-",\n
+"ddenumire_Strada":"Str. Ing. Ştefan Hepiteş","dnumar_Strada":"16A","ddenumire_Localitate":"Sector 5 Mun. Bucureşti",\n
+"dcod_Localitate":"5","ddenumire_Judet":"MUNICIPIUL BUCUREŞTI","dcod_Judet":"40","dtara":"-","ddetalii_Adresa":"PARTER",\n
+"dcod_Postal":"-","data_inregistrare":"2002-08-26","cod_CAEN":"6201","act":"-","bilant":[{"An":2021,"CifraRon":3546373,\n
+"ProfitNetRon":1213964,"Salariati":22},{"An":2020,"CifraRon":3004316,"ProfitNetRon":652561,"Salariati":22},{"An":2019,\n
+"CifraRon":3826303,"ProfitNetRon":1232008,"Salariati":24},{"An":2018,"CifraRon":4109725,"ProfitNetRon":960910,\n
+"Salariati":26},{"An":2017,"CifraRon":3916147,"ProfitNetRon":523535,"Salariati":23}]}
+Ex. APIv6
+{"cod":200,"message":"OK","found":[{"Fiscal Code":14837428,"date":"2022-09-13","name":"BORG DESIGN SRL",\n
+"adress":"MUNICIPIUL BUCUREŞTI, SECTOR 5, STR. ING. ŞTEFAN HEPITEŞ, NR.16A, PARTER","Registry_No":"J40/8118/2002",\n
+"phone":"0213323785","fax":"0213320864","postalCode":"","registration_status":"TRANSFER(SOSIRE) din data 09.09.2020",\n
+"VAT":true,"VAT_start_date":"2002-08-26","VAT_end_date":"","VAT_cancellation_date":"","VAT_message":null,\n
+"VAToncollection_start_date":"","VAToncollection_end_date":"","VAToncollectionupdatedate":"",
+"VAToncollectionpublishdate":"","VAToncollectionupdatetype":"","VAToncollectionstatus":false,"inactivationDate":"",\n
+"reactivationDate":"","publishDate":"","Erasuredate":"","inactiveStatus":false,"dataInceputSplitTVA":"",\n
+"dataAnulareSplitTVA":"","VATSplitstatus":false,"iban":"","StatusRO_e-Invoice":false,
+"sstreet_name":"Str. Ing. Ştefan Hepiteş","street_Number":"16A","slocality_Name":"Sector 5 Mun. Bucureşti",\n
+"slocality_Code":"5","scounty_Name":"MUNICIPIUL BUCUREŞTI","scounty_Code":"40","scountry":"","sadress_Details":"PARTER",\n
+"spostal_Code":"","dstreet_Name":"Str. Ing. Ştefan Hepiteş","dstreet_Number":"16A",
+"dlocality_Name":"Sector 5 Mun. Bucureşti","dlocality_Code":"5","dcounty_Name":"MUNICIPIUL BUCUREŞTI",\n
+"dcounty_Code":"40","dcountry":"","dadress_Details":"PARTER","dpostal_Code":"","registration_date":"2002-08-26",\n
+"NACE_code":"6201","act":""}],"notfound":[]}
+ATENTIE:
+* CAND SE SPECIFICA PARAMETRUL BILANT = 1, SE CONSUMA 2 INTEROGARI.
+* INFORMATIILE LEGATE DE BILANT SUNT FURNIZATE CONFORM SURSEI LISTAFIRME.RO.\n
+* INFORMATIILE LEGATE DE TVA SUNT FURNIZATE CONFORM SURSEI OFICIALE ANAF.RO .\n
+
+6. Alte informatii utile
+Istoricul interogarilor poate fi consultat in sectiunea:\n
+
+https://www.verificaretva.ro/contulmeu/detalii-cont\n
+Datele furnizate de API Verificare TVA pot fi consultate si online prin verificarea punctuala \n
+(cautarea de pe site) sau prin verificarea de liste.\n
+Pentru mai multe informatii sau nelamuriri, accesati pagina https://www.verificaretva.ro/documentatie-api.aspx
+7. Istoric versiuni
+Nou in versiunea 4:
+- Adaugarea starii de SplitTVA (Registru Plati Defalcate TVA);\n
+
+- Adaugarea datelor de inceput ale starilor de TVA, TVA la incasare si TVA Split;\n
+
+- Modificarea tipului de data de la TVA si TVA la incasare din 0 / 1 in true / false.\n
+
+Nou in versiunea 5:
+- Posibilitatea de a interoga liste de cui-uri;\n
+
+- Posibilitatea de interogare a istoricului TVA;\n
+
+- Implementarea metodei POST.\n
+
+Nou in versiunea 5.1:
+- Posibilitatea de a interoga statusul Inactiv Anaf;\n
+
+- Posibilitatea de interogare in timp real direct din sursa oficiala;\n
+
+Nou in versiunea 5.2:
+- Posibilitatea de a interoga statusul RO_e_Factura;\n
+
+- Posibilitatea de a interoga adresa completa a sediului ;\n
+
+- Posibilitatea de a interoga adresa completa a domiciliului fiscal ;\n
+
+- Posibilitatea de a interoga caen-ul ;\n
+
+- Posibilitatea de a interoga data inregistrare;\n
+
+- Posibilitatea de a afisa informatiile in limba engleza;\n
+
+Nou in versiunea 6:
+- Posibilitatea de a afisa raspunsul cu structura identica ca cea oferita de ANAF (informati nestandardizate), 
+dar cu posibilitatea de a face interogari nelimitate;
+
+Pentru mai multe informatii sau nelamuriri, accesati pagina https://www.verificaretva.ro/documentatie-api.aspx

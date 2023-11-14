@@ -1,0 +1,129 @@
+Prelucrarea si protectia datelor personale
+I. Informatii generale\n
+Prezentele specificatii se aplica site-ului verificaretva.ro realizat, operat si mentinut de firma Borg Design SRL, \n
+cu sediul social in Bucuresti, Str. Ing. Stefan Hepites, nr.16A, in calitate de imputernicit. \n
+Verificaretva.ro este interfata electronica prin care utilizatorul imputerniceste Borg Design \n
+sa preia informatiile solicitate din surse publice in numele acestuia si sa i le returneze ca raport centralizat.\n
+Borg Design respecta viata dumneavoastra privata si datele cu caracter personal pe care le \n
+furnizati in momentul inregistrarii sau operarii in cuprinsul acestor site-uri. In acest \n
+sens au fost implementate masuri tehnologice de protectie si organizatorice corespunzatoare.\n
+Aceste specificatii au rolul de a va informa cu privire la prelucrarea datelor dumneavoastra \n
+cu caracter personal, in contextul utilizarii site-ului VerificareTVA.ro.\n
+Pentru mai multe informatii despre gdpr, va rog sa vizitati pagina https://www.verificaretva.ro/gdpr
+
+II. Categoriile de date prelucrate
+Borg Design opereaza online cu urmatoarele seturi de date:
+a) Bazele de date referitoare la informatiile fiscale ale firmelor nu fac obiectul GDPR intrucat \n
+regulamentul nr. 679 din 27 aprilie 2016 la punctul 14 stipuleaza ca acesta nu se aplica prelucrarii \n
+datelor cu caracter personal care privesc persoane juridice si, in special, intreprinderi cu personalitate juridica.\n
+
+Nu sunt considerate date cu caracter personal coincidentele de adrese sau de denumiri, respectiv \n
+faptul ca o societate include numele unei persoane partial sau integral sau ca societatea functioneaza \n
+la o adresa la care locuieste o persoana din conducerea firmei intrucat datele persoanei juridice \n
+sunt date de interes public iar adresa si denumirea au fost alese si publicate in cunostinta de \n
+cauza si pot fi oricand schimbate.
+
+Sunt informatii de interes public orice informatii care rezulta din activitatile unei institutii \n
+sau autoritati publice ori ale unei regii autonome care utilizeaza bani publici. Informatiile privind \n
+companiile sunt culese din surse publice oficiale ca ANAF.
+
+Scopurile colectarii/prelucrarii datelor sunt centralizarea de informatii de interes public si \n
+oferirea accesului facil la acestea.
+
+Pentru cereri, sugestii, sesizari, reclamatii, multumiri sau felicitari privind datele firmelor \n
+ne puteti contacta la info@verificaretva.ro.
+Pentru mai multe informatii despre gdpr, va rog sa vizitati pagina https://www.verificaretva.ro/gdpr
+b) Bazele de date referitoare la utilizatori
+Pentru categoriile de date referitoare la utilizatori (persoane fizice), Borg Design minimizeaza \n
+continutul acestora si ofera transparenta privind continutul si prelucrarile efectuate astfel:\n
+
+Tipuri de date cu caracter personal prelucrate: nume, prenume, email, mobil, IP, cookies\n
+III. Scopurile si temeiurile prelucrarilor
+Colectarea datelor se face direct de la utilizatori prin completarea formularului de inscriere.\n
+Scopurile colectarii/prelucrarii datelor sunt:
+Pentru mai multe informatii despre gdpr, va rog sa vizitati pagina https://www.verificaretva.ro/gdpr
+de mentinere a conturilor de acces online, evidenta utilizatorilor si a clientilor;\n
+furnizarea notificarilor automate privind starea contului sau a serviciilor activate;\n
+procesarea comenzilor, cererilor, intrebarilor, solicitarilor, propunerilor si sugestiilor dumneavoastra;\n
+asigurarea securitatii informatiilor;
+Prelucrarea datelor personale in scopurile de mai sus are ca temei indeplinirea obligatiilor \n
+contractuale si/sau parcurgerea etapelor premergatoare unui contract si este necesara pentru \n
+functionarea serviciilor, fiind necesara in baza unor obligatii legale. Furnizarea datelor \n
+dumneavoastra in acest scop este necesara. Refuzul furnizarii datelor poate avea drept consecinta \n
+imposibilitatea ca operatorul sa poata respecta obligatiile legale care ii revin si deci \n
+imposibilitatea de a va oferi servicii. Retragerea consimtamantului la oricare din scopurile \n
+de mai sus implica si se face prin suspendarea contului.
+alocarea sau oferirea unor eventuale recompense, reduceri sau beneficii.
+Prelucrarea datelor are ca temei consimtamantul persoanei vizate dat la infiintarea contului.\n
+Informatiile fiscale preluate de pe verificaretva.ro pot fi folosite doar in scopul emiterii \n
+corecte a facturilor sau utilizarii lor in contabilitate.
+IV. Drepturile persoanelor vizate
+Utilizatorii site-ului sunt persoane care si-au infiintat un cont de acces pe site acceptand \n
+la distanta conditiile contractuale stipulate in sectiunea "Termeni si conditii" si au fost de \n
+acord cu prelucrarea datelor personale in scopurile mentionate mai sus.\n
+Drepturi asigurate utilizatorilor:
+Pentru mai multe informatii despre gdpr, va rog sa vizitati pagina https://www.verificaretva.ro/gdpr
+dreptul de a fi informat (veti primi intotdeauna informatii clare si transparente, usor de inteles si \n
+accesibile cu privire la modul in care folosim datele dumneavoastra si despre drepturile pe care le aveti)\n
+dreptul de acces (utilizatorii pot accesa datele proprii dupa autentificarea pe site, din meniul [Contul meu]);\n
+De asemenea, fiecare Utilizator are posibilitatea de a obtine, in mod gratuit pentru o solicitare pe an, \n
+printr-o cerere intocmita in forma scrisa, datata si semnata, transmisa la adresa indicata, confirmarea \n
+faptului ca datele care o privesc sunt sau nu prelucrate de operator. Prima furnizare de informatii se va \n
+face fara a percepe niciun fel de taxa. Daca veti dori copii ale informatiilor deja furnizate sau veti \n
+repeta cererea este posibil sa va percepem o taxa rezonabila tinand cont de costurile administrative de \n
+furnizare a informatiilor. Nu putem raspunde solicitarilor care nu identifica persoana vizata sau la care \n
+avem dubii privind identitatea solicitantului.
+dreptul de rectificare si stergere (utilizatorii pot modifica datele personale asociate contului de acces);\n
+De asemenea, utilizatorii au dreptul de a solicita, in mod gratuit, rectificarea, actualizarea, blocarea \n
+sau stergerea totala sau partiala a datelor proprii. Solicitarile privind stergerea datelor se vor realiza \n
+in masura in care nu exista dispozitii legale prin care suntem obligati sa pastram datele.\n
+dreptul de a fi uitat (utilizatorii isi pot sterge contul de acces si datele personale asociate);\n
+dreptul la restrictionarea prelucrarii (utilizatorii isi pot suspenda contul de acces, datele conturilor \n
+suspendate sunt restrictionate la prelucrari);
+dreptul de opozitie (utilizatorii au dreptul de a se opune prelucrarii datelor personale in anumite scopuri);\n
+dreptul la retragerea consimtamantului (se exercita prin suspendarea sau stergerea contului);\n
+Descrierea detaliata a drepturilor persoanelor vizate o puteti gasi aici. In afara de posibilitatile online\n
+ prezentate mai sus, pentru exercitarea drepturilor, utilizatorii pot de asemenea sa adreseze cereri \n
+(vezi model cerere) in scris operatorului la adresa info@verificaretva.ro (sau prin posta) urmand sa\n
+primeasca raspuns in termen de maxim o luna.
+Pentru mai multe informatii despre gdpr, va rog sa vizitati pagina https://www.verificaretva.ro/gdpr
+In cazul in care utilizatorii sunt nemultumiti de modul in care le-au fost respectate drepturile, \n
+acestia pot adresa plangeri operatorului (info@verificaretva.ro), autoritatii de supraveghere \n
+nationale sau se pot adresa justitiei.
+
+V. Durata prelucrarii datelor
+In cazul clientilor, vom prelucra datele pe intreaga durata a raporturilor contractuale si ulterior \n
+conform obligatiilor legale care revin in sarcina Borg Design (de ex., in cazul documentelor justificative \n
+financiar-contabile pentru care termenul de pastrare prevazut de lege este de 10 ani de la data incheierii\n
+ exercitiului financiar in cursul caruia au fost intocmite).
+
+La exercitarea optiunii de stergere a contului de utilizator, prin apasarea butonul Stergere cont din \n
+sectiunea Contul meu, Borg Design va interpreta aceasta actiune ca optiunea dumneavoastra de a restrictiona \n
+orice tip de prelucrare. Va informam ca stergerea contului nu va avea ca efect automat stergerea imediata a \n
+datelor dumneavoastra cu caracter personal ci stergerea se va face ulterior conform politicii de stergere a datelor.\n
+
+Politica de stergere a datelor:
+
+datele marcate pentru stergere vor fi initial restrictionate tuturor prelucrarilor si sterse definitiv \n
+dupa ce nu va mai exista nicio lege in efect care sa oblige la pastrarea datelor \n
+(motive de securitate sau contabilitate)
+date care nu mai sunt necesare: conturile vor fi sterse automat dupa doi ani de neutilizare;\n
+date eronate: conturile a caror date sunt vadit eronate vor fi sterse cu ocazia verificarilor bianuale.\n
+VI. Dezvaluirea datelor cu caracter personal
+Pentru indeplinirea scopurilor de prelucrare, Borg Design poate dezvalui datele dumneavoastra catre \n
+entitati care sprijina desfasurarea activitatii prin intermediul Site-ului (de exemplu firme de curierat,\n
+ furnizori de servicii IT), ori catre autoritatile publice centrale/locale, in urmatoarele cazuri \n
+exemplificativ enumerate:
+Pentru mai multe informatii despre gdpr, va rog sa vizitati pagina https://www.verificaretva.ro/gdpr
+in situatiile in care aceasta comunicare ar fi necesara pentru atribuirea de premii sau alte facilitati \n
+persoanelor vizate, obtinute ca urmare a participarii lor la diverse campanii promotionale organizate de \n
+catre [detinatorul website-ului] prin intermediul Site-ului;\n
+pentru efectuarea analizei datelor, testarea si cercetarea, monitorizarea tendintelor de utilizare si activitate, \n
+dezvoltarea caracteristicilor de siguranta si autentificarea utilizatorilor;
+atunci cand dezvaluirea datelor cu caracter personal este prevazuta de lege etc.\n
+VII. Transferul datelor cu caracter personal
+Este interzis in mod expres si indiferent de destinatie transferul de date cu caracter personal furnizate de \n
+catre Borg Design.
+
+Daca doriti sa consultati regulamentul (UE) 2016/679 privind protectia persoanelor fizice in ceea ce priveste \n
+prelucrarea datelor cu caracter personal, il gasiti aici.

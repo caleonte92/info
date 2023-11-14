@@ -1,0 +1,30 @@
+Verificati automat daca furnizorii si clientii dumneavoastra aplica TVA, TVA la incasare,au cod tva Inactiv,sunt in registrul E-factura si daca au aplicat Split TVA (plata defalcata TVA)\n
+
+Ce informatii fiscale obtineti?
+Numele firmei, numarul de inmatriculare la Registrul Comertului, judetul si localitatea, adresa postala partiala, data actualizarii, informatii despre TVA: daca este platitor de TVA, daca este platitor de TVA la incasare, daca au aplicat plata defalcata a TVA, daca au status cod tva Inactiv, daca sunt in registrul E-factura.\n
+
+Cum va ajuta Verificare TVA?
+Evitati pierderea timpului si eliminati erorile prin validarea automata a codurilor fiscale! O astfel de verificare este mult mai rapida decat o poate face orice utilizator uman atunci cand are de preluat manual un volum mare de date. In plus, aveti permanent acces la istoricul informatiilor fiscale! Obtineti ultimele date disponibile, chiar daca sursele oficiale nu sunt functionale.\n
+
+Alegeti o varianta de acces:
+1. Verificare TVA punctuala
+Verificarea punctuala se face interogand serviciul pentru fiecare cod fiscal in parte. Aceasta verificare este cea mai rapida metoda prin care aflati daca o companie din Romania aplica TVA, TVA la incasare sau daca au aplicat plata defalcata a TVA sau daca au cod tva Inactiv ,daca sunt in registrul E-factura.Obtineti toate datele de facturare necesare printr-o simpla cautare punctuala.\n
+Puteti verifica gratuit pana la 5 companii pe zi / IP ca utilizator neautentificat (fara cont).
+
+Vreti sa verificati mai multe companii pe zi? 
+2. Verificare TVA a listelor de coduri fiscale
+Pentru utilizatorii care au nevoie de verificarea unor liste mai mari de coduri fiscale, simplificam procesul de verificare TVA prin automatizare. Importati lista de coduri fiscale in format .TXT si exportati datele in format .CSV si .TXT.\n
+
+Accesati instructiunile de utilizare 
+3. API Verificare TVA
+API Verificare TVA vine in ajutorul celor care vor sa integreze datele legate de TVA in aplicatii proprii. Fie ca vorbim despre un CRM sau un program de facturare, API-ul verifica si valideaza automat persoanele juridice, in scop de TVA.\n
+
+Documentatia pentru API Verificare TVA se poate vedea pe pagina https://www.verificaretva.ro/documentatie-api.aspx
+
+
+Pentru a va crea un cont gratuit, puteti accesa pagina https://www.verificaretva.ro/inregistrare
+
+
+
+
+

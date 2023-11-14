@@ -1,0 +1,290 @@
+Termeni si Conditii
+\n
+Folosirea acestui site implica acceptarea in totalitate a termenilor si conditiilor de utilizare. \n
+Pentru mai multe informatii despre Termenii si conditile noastre, vizitati pagina https://www.verificaretva.ro/termeni-si-conditii
+
+In situatia in care nu sunteti de acord cu acestia, va rugam sa incetati accesarea fara acord a website-ului \n
+
+https://www.verificaretva.ro, site care este proprietate a Borg Design SRL.\n
+
+Definitii. Urmatorii termeni vor fi definiti pentru o mai buna intelegere a conditiilor de utilizare:\n
+
+Utilizator - orice persoana interesata de furnizarea serviciului sau care acceseaza serviciul;\n
+
+Serviciu - acordarea catre utilizator a accesului la informatii fiscale si transmise prin intermediul acestui \n
+
+website de catre Borg Design SRL, CUI 14837428, J40/8118/2002, cod conduita.\n
+
+Plata recurenta - metoda de plata a unei Comenzi de catre Client, constand in retragerea automata (fara participarea Clientului)\n
+
+ de pe Cardul de plata al Clientului a sumei datorate catre VerificareTVA.ro pentru abonamentul achizitionat.\n
+
+Acest serviciu implica emiterea regulata a facturilor pentru servicii furnizate in mod constant, intr-un interval de timp predefinit, pe baza unui abonament.\n
+
+Token - reprezint un numar unic criptat, asociat cardului de plata. Astfel, atunci cand clientul opteaza \n
+
+pentru activarea platii recurente, va fi asociat un Token pentru cardul cu care s-a efectuat plata.\n
+
+Datele cu caracter personal NU sunt salvate de catre VerificareTVA.ro, iar prelucrarea in scopul necesar \n
+Pentru mai multe informatii despre Termenii si conditile noastre, vizitati pagina https://www.verificaretva.ro/termeni-si-conditii
+prestarii serviciilor de tokenizare sta in sarcina procesatorului de plata Payu.ro.\n
+
+Obligatiile Utilizatorului:\n
+
+a. Utilizatorul site-ului web este obligat ca la fiecare accesare a site-ului web sau la utilizarea serviciilor oferite sa actioneze in mod legal. Utilizatorul se obliga sa:\n
+
+nu modifice, distribuie, transmita, afiseze, publice, reproduca, acorde licente, creeze produse derivate, \n
+
+transfere sau vanda orice fel de informatii sau servicii obtinute prin reproducerea,\n
+
+ modificarea sau afisarea continutului de pe sau prin intermediul acestui site web fara permisiune scrisa din partea Borg Design;\n
+
+nu foloseasca si sa nu permita vreunui tert (si sa nu il autorizeze) sa foloseasca serviciul Borg Design pentru a \n
+
+transmite sau a receptiona materiale care contravin dispozitiilor legale in vigoare sau au un continut obscen, \n
+
+abuziv, vulgar, defaimator, ofensator, amenintator, incalca orice alt drept de proprietate intelectuala sau este in orice alt mod ofensator;\n
+
+nu desfasoare (si sa nu permita) activitatea de cracking sau hacking, sau atacurile de tipul "Denial of Service". \n
+
+Utilizatorii care violeaza securitatea sistemelor sau retelelor vor fi actionati in instanta, civil si penal.\n
+Pentru mai multe informatii despre Termenii si conditile noastre, vizitati pagina https://www.verificaretva.ro/termeni-si-conditii
+b. Utilizatorul este de acord sa nu faca raspunzator si sa nu actioneze Borg Design in justitie atat cu privire la \n
+
+orice pretentie ridicata de catre un tert, rezultata din utilizarea serviciului si a Internetului de catre Utilizator,\n
+
+ cat si cu privire la orice pierdere (directa, indirecta, pe cale de consecinta sau de alta natura), costuri, \n
+
+actiuni, procese, pretentii, cheltuieli (inclusiv cheltuieli de judecata) sau alte raspunderi,\n
+
+ suferite in vreun fel sau provocate direct de Borg Design ca urmare a incalcarii sau ignorarii de catre Utilizator a acestor conditii. \n
+
+c. Utilizatorii sunt obligati sa foloseasca informatiile fiscale preluate de pe verificaretva.ro doar \n
+
+in scopurile prevazute in Prelucrarea si protectia datelor personale (emiterea facturilor fiscale sau utilizarea lor in contabilitate).\n
+
+Politica de refund\n
+
+Servicii online
+In cazul in care nu a inceput utilizarea serviciilor, utilizatorul are dreptul de a denunta unilateral \n
+
+contractul la distanta, in termen de 14 zile, fara penalitati si fara invocarea vreunui motiv.\n
+
+In cazul in care pentru anumite servicii sau produse partile au convenit politica de refund diferita \n
+
+prin specificatii contractuale, se va aplica varianta cea mai avantajoasa pentru utilizator.\n
+
+Daca plata recurenta a fost dezactivat dar clientul a fost in continuare taxat, prin notificare de catre VerificareTVA.ro\n
+
+, clientului i se va returna contravaloarea sumei, \n
+
+cu conditia ca abonamentul achizitionat in urma tranzactiei sa nu fie folosit.\n
+
+In cazul in care se omite dezactivarea platii recurente de catre client, iar suma este procesata, \n
+
+VerificareTVA.ro nu va fi făcut răspunzător și va returna contravaloarea doar ultimei plati cu conditia ca \n
+
+abonamentul achizitionat in urma tranzactiei sa nu fie folosit.\n
+
+Plata recurentă poate fi anulată din contul de client oricand pe durata de valabilitate a contractului.\n
+Pentru mai multe informatii despre Termenii si conditile noastre, vizitati pagina https://www.verificaretva.ro/termeni-si-conditii
+Limitarea raspunderii
+a. Utilizatorul declara in mod expres ca intelege si este de acord cu urmatoarele afirmatii:\n
+
+I. Utilizarea serviciului se face pe propria raspundere. Astfel Borg Design nu poate fi responsabil \n
+
+pentru nici un fel de daune directe sau indirecte produse prin utilizarea site-ului sau a site-urilor web in legatura cu acesta.\n
+
+II. Borg Design asigura buna functionare a site-ului si improspatarea informatiilor in masura in care \n
+eforturile nu sunt disproportionate cu interesul manifestat de utilizatori si nu raspunde sau garanteaza ca:\n
+
+serviciile indeplinesc sau vor fi adaptate la orice cerinta a dumneavoastra;\n
+
+serviciile vor fi disponibile si functionale permanent (pot exista perioade scurte de maintenanta);\n
+
+III. Informatiile obtinute prin utilizarea serviciului au un grad de acuratete bun care nu exclude \n
+
+posibilitatea existentei unor eventuale erori. Utilizatorul va fi singura persoana responsabila \n
+
+privind modul de utilizare si de eventualele pierderi ce pot rezulta din utilizarea fara verificare a acestor informatii.\n
+
+IV. Nici un sfat sau alte informatii orale sau scrise, obtinute de catre Utilizator de la \n
+
+Borg Design prin intermediul serviciului, nu va crea o garantie care nu este stipulata expres in Conditiile de Utilizare.\n
+
+V. Raspunderea Borg Design (daca aceasta este stabilita de catre o instanta judecatoreasca \n
+
+sau un tribunal arbitral) rezultata in orice mod din sau in legatura cu furnizarea serviciului \n
+
+conform acestor conditii, este limitata in cazul fiecarui eveniment sau in cazul oricarei serii de mai multe evenimente la 100 de Euro.\n
+
+Pentru mai multe informatii despre Termenii si conditile noastre, vizitati pagina https://www.verificaretva.ro/termeni-si-conditii
+Incetarea contractului\n
+
+Contractul inceteaza prin:\n
+
+decizia unilaterala a utilizatorului exprimata prin stergerea contului propriu;\n
+
+stergerea contului in caz de nerespectare a obligatiilor utilizatorului;\n
+Reclamatii si sugestii
+Reclamatiile si sugestiile sunt acceptate daca sunt transmise pe adresa de e-mail info@verificaretva.ro\n
+
+ cu identificarea reclamantului prin: nume, adresa, telefon, date identificare persoana juridica (daca este cazul).\n
+
+Acestea sunt inregistrate in Registrul de sugestii si reclamatii si solutionate in termen de 30 de zile.\n
+
+Securitate
+Utilizatorul ia la cunostinta ca Borg Design nu poate controla si nu ofera nici un fel de garantii privind \n
+
+securitatea informatiilor care sunt vehiculate prin Internet.\n
+
+Cookies
+Site-ul utilizeaza cookies, pe o durata intre 0 si 1 an, pentru stocarea preferintelor utilizatorilor si cookies Google.\n
+
+Site-ul respecta optiunea de acceptare/refuzare a cookie-urilor exprimata in setarile browserului dumneavoastra.\n
+
+Puteti accepta, refuza sau sterge (vezi detalii) in orice moment cookies conform documentatiei browserului dumneavoastra.\n
+
+Conexiunea la alte Site-uri\n
+
+a. Serviciul poate fi folosit de catre Utilizator pentru a afla diferite informatii afisate de catre Borg Design pe WEB,\n
+
+ pentru a face legatura cu alte site-uri web din lume, iar Utilizatorul se angajeaza sa respecte politicile de utilizare\n
+
+ valabile in acele retele sau site-uri. Utilizatorul accepta starea de fapt ca Borg Design nu controleaza aceste site-uri,\n
+
+ nu este responsabil si nu isi asuma nici o obligatie in ceea ce priveste alte site-uri, orice link din alte site-uri sau continutul acestora.\n
+
+b. Orice includere de link-uri spre alte site-uri este facuta numai pentru a putea fi folosita de Utilizator si nu implica\n
+
+ sprijinirea de catre Borg Design a materialului disponibil pe acele site-uri sau retele si nici vreo asociere cu operatorii lor.\n
+
+ Utilizatorul acceseaza acele site-uri si le foloseste produsele si serviciile exclusiv pe propriul risc.\n
+
+Proprietate intelectuala
+
+Utilizatorul declara in mod expres ca a luat la cunostinta faptul ca logo-urile si simbolurile asociate folosite pe acest site, sunt marci comerciale ale Borg Design.\n
+
+
+Date cu caracter personal
+Borg Design SRL este inregistrata in registrul operatorilor de date cu caracter personal sub nr. 5647/2007.\n
+
+Prin utilizarea acestui site sunteti de acord cu faptul ca Borg Design are dreptul de a prelucra datele dumneavoastra personale,\n
+
+ dezvaluite ca urmare a folosirii serviciului, conform specificatiilor GDPR.\n
+
+Generalitati
+
+a. Modificari ale conditiilor - Borg Design poate modifica prezentele conditii la anumite intervale de timp fara a anunta Utilizatorul.\n
+
+ Astfel de modificari vor fi aduse la cunostinta Utilizatorului prin afisare pe site-ul web. \n
+
+Modificarile facute astfel sunt socotite a fi acceptate de catre Utilizator daca acesta continua sa foloseasca serviciul dupa afisarea lor pe site-ul web.\n
+
+b. Forta Majora - Borg Design nu isi asuma responsabilitatea pentru imposibilitatea de a se conforma obligatiilor prevazute in aceste conditii,\n
+
+ ca rezultat al oricarei cauze aflate in afara controlului sau, incluzand dar nelimitandu-se la evenimente fortuite,\n
+
+ conditii meteorologice nefavorabile, actiunea sau inactiunea guvernului sau a altor autoritati, a altor retele de care firma Borg Design nu este responsabila.\n
+
+c. Jurisdictie - Acest site web (exclusiv site-uri ale tertelor parti spre care exista linkuri) este controlat de catre Borg Design.\n
+
+ Prin accesarea acestui site, Utilzatorul accepta ca aceste conditii si orice disputa legata de ele sunt guvernate si interpretate in concordanta cu legile Romaniei,\n
+
+ iar Utilizatorul admite sa se supuna jurisdictiei exclusive a instantelor judecatoresti de pe teritoriul Romaniei.\n
+
+ Acest site web poate fi accesat de oriunde din Romania si de peste hotare. \n
+
+Borg Design nu ofera nici o asigurare ca ceea ce acest site contine se supune legilor (inclusiv celor de proprietate intelectuala) altor tari in afara Romaniei. \n
+
+Daca Utilizatorul acceseaza acest site din afara Romaniei, o face pe riscul sau si este singur responsabil de respectarea legilor teritoriului in care se afla.\n
+
+d. Confidentialitate  - Borg Design nu garanteaza ca utilizarea acestui site va fi confidentiala. \n
+
+Borg Design nu este responsabil pentru nici o paguba pe care o sufera Utilizatorul\n
+
+ sau alta persoana ca rezultat al incalcarii confidentialitatii cu privire la utilizarea de catre Utilizator a acestui site. \n
+
+Orice informatie pe care Utilizatorul o dezvaluie pe site se poate sa nu fie in siguranta pe durata transmiterii ei prin Internet.\n
+
+ Terte parti au posibilitatea de a intercepta transmisiunile pe care le face Utilizatorul cand foloseste acest site web. \n
+
+Unele servicii pe care le acceseaza Utilizatorul pe acest site permit Borg Design sa primeasca informatii cu caracter personal.\n
+
+Legislatie in domeniu:
+Directiva 2013/37/UE a Parlamentului European si a Consiliului din 26 iunie 2013 privind reutilizarea informatiilor din sectorul public;\n
+
+LEGEA nr. 109/2007 privind reutilizarea informatiilor din institutiile publice;\n
+
+LEGEA nr. 544/2001 privind liberul acces la informatiile de interes public;\n
+
+LEGE nr. 31 din 16 noiembrie 1990 republicata, actualizata (legea societatilor comerciale).\n
+
+Regulamentul (UE) 2016/679 privind protectia persoanelor fizice in ceea ce priveste prelucrarea datelor cu caracter personal.\n
+
+ATENTIE!
+
+NU utilizati acceleratoare de navigare pe acest site!
+
+Programele care navigheaza fara interventie umana (scripturi, roboti, etc) pot consuma inutil sau bloca drepturile dumneavoastra de acces.\n
+
+NOTA DE INFORMARE PRIVIND PROTECTIA DATELOR PERSONALE\n
+
+Borg Design respecta viata dumneavoastra privata si datele cu caracter personal pe care \n
+
+le furnizati in momentul inregistrarii sau operarii in cuprinsul acestui site.\n
+
+Conform cerintelor Legii nr. 677/2001 pentru protectia persoanelor cu privire la prelucrarea datelor \n
+
+cu caracter personal si libera circulatie a acestor date, modificata si completata si ale Legii nr. \n
+
+506/2004 privind prelucrarea datelor cu caracter personal si protectia vietii private in sectorul comunicatiilor electronice,\n
+
+ Borg Design are obligatia de a administra in conditii de siguranta si numai pentru scopurile specificate, \n
+
+datele personale pe care ni le furnizati despre dumneavoastra, un membru al familiei dumneavoastra ori o alta persoana fizica.\n
+
+
+Scopul colectarii datelor este
+
+de mentinere a conturilor de acces online, evidenta utilizatorilor si a clientilor.\n
+
+oferirea de produse si/sau servicii de catre utilizatorii site-ului catre dumneavoastra;\n
+
+solutionarea intrebarilor, solicitarilor, propunerilor si sugestiilor dumneavoastra;\n
+
+procesarea comenzilor sau cererilor dumneavoastra;\n
+
+emiterea documentelor de facturare;\n
+
+alocarea sau oferirea unor eventuale recompense, reduceri sau beneficii.\n
+
+Informatiile private inregistrate sunt destinate utilizarii de catre Borg Design si partenerii contractuali ai acestuia.\n
+
+ Datele cu caracter privat nu sunt disponibile public exceptie facand datele care apar in documente oficiale conform legii\n
+
+ si care pot fi accesate de catre utilizatorii site-ului (nume asociati si administratori).\n
+
+Conform Legii nr. 677/2001, beneficiati de dreptul de acces, de interventie asupra datelor, \n
+
+dreptul de a nu fi supus unei decizii individuale si dreptul de a va adresa justitiei. \n
+
+Totodata, aveti dreptul sa va opuneti prelucrarii datelor personale care va privesc si sa solicitati stergerea datelor.\n
+
+ Pentru exercitarea acestor drepturi, va puteti adresa cu o cerere scrisa, datata si semnata la Borg Design.\n
+
+ De asemenea, va este recunoscut dreptul de a va adresa justitiei. Daca unele din datele despre dumneavoastra sunt incorecte,\n
+ va rugam sa ne informati cat mai curand posibil.\n
+
+Observatii:
+orice persoana fizica are dreptul de a se opune, pentru motive legitime, la prelucrarea datelor ce o privesc.\n
+
+ Acest drept de opozitie poate fi exclus pentru anumite prelucrari prevazute de lege \n
+
+(de ex.: prelucrari efectuate de serviciile financiare si fiscale, de politie, justitie, securitate sociala).\n
+
+ Prin urmare, aceasta mentiune nu poate figura daca prelucrarea are un caracter obligatoriu; orice persoana are, \n
+
+de asemenea, dreptul de a se opune, in mod gratuit si fara nici o justificare, la prelucrarile datelor sale personale in scopuri de marketing direct;\n
+
+persoanele juridice nu fac obiectul Legii nr. 677/2001.\n
